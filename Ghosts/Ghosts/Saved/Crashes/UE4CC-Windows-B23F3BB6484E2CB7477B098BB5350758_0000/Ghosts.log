@@ -1,0 +1,1515 @@
+﻿Log file open, 01/10/20 12:01:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ghosts
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.979968
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.10-12.01.23:727][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.10-12.01.23:727][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.10-12.01.23:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Engine.ini]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Engine.ini]
+[2020.01.10-12.01.23:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Engine.ini]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Engine.ini]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.10-12.01.23:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Engine.ini]
+[2020.01.10-12.01.23:738][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Engine.ini]
+[2020.01.10-12.01.24:022][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.10-12.01.24:023][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.10-12.01.24:024][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.10-12.01.24:058][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.10-12.01.24:058][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.10-12.01.24:207][  0]LogHAL: Display: Platform has ~ 8 GB [8470958080 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.10-12.01.24:208][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.10-12.01.24:208][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.10-12.01.24:211][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.01.10-12.01.24:211][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.01.10-12.01.24:212][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Scalability.ini]
+[2020.01.10-12.01.24:212][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.01.10-12.01.24:213][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.01.10-12.01.24:213][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.10-12.01.24:233][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.10-12.01.24:233][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.10-12.01.24:233][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Config/Windows/Engine.ini]
+[2020.01.10-12.01.24:570][  0]LogInit: Computer: DESKTOP-2542D2H
+[2020.01.10-12.01.24:570][  0]LogInit: User: Admin
+[2020.01.10-12.01.24:570][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.10-12.01.24:570][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.10-12.01.24:626][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.10-12.01.24:626][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.10-12.01.24:626][  0]LogMemory: Process Physical Memory: 97.11 MB used, 97.11 MB peak
+[2020.01.10-12.01.24:626][  0]LogMemory: Process Virtual Memory: 91.96 MB used, 91.96 MB peak
+[2020.01.10-12.01.24:626][  0]LogMemory: Physical Memory: 5438.84 MB used,  2639.70 MB free, 8078.54 MB total
+[2020.01.10-12.01.24:626][  0]LogMemory: Virtual Memory: 4632.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.01.10-12.01.27:478][  0]LogInit: Using OS detected language (en-GB).
+[2020.01.10-12.01.27:478][  0]LogInit: Using OS detected locale (en-GB).
+[2020.01.10-12.01.27:513][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.01.10-12.01.29:883][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.10-12.01.31:851][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.10-12.01.31:851][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.10-12.01.47:855][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.10-12.01.47:855][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.10-12.01.48:168][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2020.01.10-12.01.48:168][  0]LogD3D11RHI:       2988/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.10-12.01.48:565][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.01.10-12.01.48:566][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.10-12.01.48:569][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.10-12.01.48:569][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.10-12.01.48:569][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.10-12.01.48:607][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.10-12.01.48:607][  0]LogD3D11RHI:     GPU DeviceId: 0x1b84 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.10-12.01.48:607][  0]LogWindows: EnumDisplayDevices:
+[2020.01.10-12.01.48:607][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.01.10-12.01.48:607][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.10-12.01.48:607][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2020.01.10-12.01.48:608][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.01.10-12.01.48:608][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.01.10-12.01.48:608][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.01.10-12.01.48:608][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.01.10-12.01.48:608][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2020.01.10-12.01.48:608][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.01.10-12.01.48:608][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.01.10-12.01.48:608][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2020.01.10-12.01.48:798][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.10-12.01.49:796][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.10-12.01.49:863][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.10-12.01.49:863][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.10-12.01.49:909][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2020.01.10-12.01.52:249][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.10-12.01.52:284][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.10-12.01.52:327][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.10-12.01.52:352][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.10-12.01.52:622][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.10-12.01.52:701][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.10-12.01.52:776][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.10-12.01.52:984][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.10-12.01.53:027][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.10-12.01.53:391][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.10-12.01.53:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.10-12.01.53:409][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.10-12.01.53:575][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.10-12.01.53:575][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.10-12.01.53:644][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.10-12.01.53:644][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.10-12.01.53:712][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.10-12.01.53:752][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.10-12.01.54:054][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.10-12.01.54:126][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.10-12.01.54:201][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.10-12.01.54:201][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.10-12.01.54:201][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.10-12.01.55:151][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.10-12.01.57:190][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Intermediate/Shaders/WorkingDirectory/16332/).
+[2020.01.10-12.01.57:191][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/97C40AD64725F70945FAC489121C3F2C/'.
+[2020.01.10-12.01.57:219][  0]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.10-12.01.57:220][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.10-12.01.57:220][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.10-12.01.57:220][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.10-12.02.18:864][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.10-12.02.19:850][  0]LogDerivedDataCache: Loaded boot cache 0.99s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.10-12.02.19:850][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.10-12.02.19:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.10-12.02.19:850][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.10-12.02.19:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.10-12.02.19:850][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.10-12.02.20:096][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.10-12.02.20:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.10-12.02.20:097][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.10-12.02.20:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.10-12.02.20:110][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.10-12.02.20:110][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.10-12.02.20:441][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.10-12.02.20:496][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.10-12.02.20:711][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.10-12.02.26:318][  0]LogAssetRegistry: FAssetRegistry took 0.0402 seconds to start up
+[2020.01.10-12.02.41:473][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.10-12.02.45:385][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.10-12.02.45:385][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.10-12.02.45:385][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.10-12.02.45:385][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.10-12.02.45:385][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.10-12.02.46:628][  0]LogNetVersion: Ghosts 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1968466366)
+[2020.01.10-12.03.04:570][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.421478 seconds
+[2020.01.10-12.03.04:615][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.10-12.03.04:615][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.10-12.03.04:615][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.10-12.05.51:224][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.10-12.05.51:519][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.10-12.05.55:103][  0]SourceControl: Source control is disabled
+[2020.01.10-12.05.55:251][  0]SourceControl: Source control is disabled
+[2020.01.10-12.05.55:969][  0]SourceControl: Source control is disabled
+[2020.01.10-12.05.56:049][  0]SourceControl: Source control is disabled
+[2020.01.10-12.06.10:841][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.10-12.06.15:762][  0]LogOcInput: OculusInput pre-init called
+[2020.01.10-12.06.50:138][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 13.08s
+[2020.01.10-12.06.50:816][  0]LogEngine: Initializing Engine...
+[2020.01.10-12.06.51:102][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.10-12.06.51:359][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.059 s
+[2020.01.10-12.06.52:764][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.10-12.06.54:182][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.10-12.06.54:942][  0]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.06.55:662][  0]LogInit: FAudioDevice initialized.
+[2020.01.10-12.06.55:696][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.10-12.06.56:463][  0]LogDerivedDataCache: Saved boot cache 0.77s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.10-12.06.56:485][  0]LogInit: Texture streaming: Enabled
+[2020.01.10-12.06.57:086][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.10-12.06.59:634][  0]LogInit: Transaction tracking system initialized
+[2020.01.10-12.07.01:446][  0]BlueprintLog: New page: Editor Load
+[2020.01.10-12.07.05:393][  0]LocalizationService: Localization service is disabled
+[2020.01.10-12.07.11:063][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/' took 0.07s
+[2020.01.10-12.07.11:063][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.10-12.07.11:064][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.10-12.07.27:672][  0]SourceControl: Source control is disabled
+[2020.01.10-12.07.27:750][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.10-12.07.27:825][  0]LightingResults: New page: Lighting Build
+[2020.01.10-12.07.28:224][  0]MapCheck: New page: Map Check
+[2020.01.10-12.07.28:224][  0]LightingResults: New page: Lighting Build
+[2020.01.10-12.07.29:211][  0]LogUObjectHash: Compacting FUObjectHashTables data took  14.20ms
+[2020.01.10-12.07.35:541][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/PickUp'
+[2020.01.10-12.07.35:542][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/PickUp' while loading NULL.
+[2020.01.10-12.07.36:166][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/PickUp'
+[2020.01.10-12.07.36:166][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/PickUp' while loading NULL.
+[2020.01.10-12.07.36:167][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/PickUp'
+[2020.01.10-12.07.36:168][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/PickUp' while loading NULL.
+[2020.01.10-12.07.36:170][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/PickUp'
+[2020.01.10-12.07.36:171][  0]LoadErrors: Failed to load /Game/Blueprint/PickUp.PickUp_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.01.10-12.07.36:171][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/PickUp' while loading NULL.
+[2020.01.10-12.07.36:171][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/PickUp'
+[2020.01.10-12.07.36:171][  0]LoadErrors: Failed to load /Game/Blueprint/PickUp.PickUp_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.01.10-12.07.36:172][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/PickUp' while loading NULL.
+[2020.01.10-12.07.36:671][  0]LogBlueprint: Error: [Compiler BP_BaseGhost] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2020.01.10-12.07.36:674][  0]LogBlueprint: Warning: [Compiler BP_BaseGhost] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2020.01.10-12.07.38:291][  0]LogBlueprint: Warning: [Compiler BP_BaseGhost] [0531.17] Compile of BP_BaseGhost failed. 1 Fatal Issue(s) 1 Warning(s) [in 2,063 ms] (/Game/Blueprint/BP_BaseGhost.BP_BaseGhost)
+[2020.01.10-12.07.38:832][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/PickUp'
+[2020.01.10-12.07.38:832][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/PickUp' while loading NULL.
+[2020.01.10-12.07.38:841][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/PickUp'
+[2020.01.10-12.07.38:841][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/PickUp' while loading NULL.
+[2020.01.10-12.07.56:006][  0]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.08.01:250][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.10-12.08.04:122][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.10-12.08.04:673][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.10-12.08.04:845][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 132.019ms to complete.
+[2020.01.10-12.08.04:911][  0]LogFileHelpers: Loading map 'TestMap' took 37.176
+[2020.01.10-12.08.27:513][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.08.27:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.08.27:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.08.27:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.08.29:206][  0]LogCollectionManager: Loaded 0 collections in 0.002838 seconds
+[2020.01.10-12.08.32:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Collections/' took 0.01s
+[2020.01.10-12.08.32:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Developers/Admin/Collections/' took 0.01s
+[2020.01.10-12.08.32:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Collections/' took 0.00s
+[2020.01.10-12.08.32:408][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.10-12.08.32:699][  0]LogContentBrowser: Native class hierarchy populated in 0.1957 seconds. Added 2732 classes and 659 folders.
+[2020.01.10-12.08.33:945][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.10-12.08.34:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.34:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.34:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.34:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.34:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.34:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.34:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.34:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:158][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.35:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.36:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.10-12.08.39:366][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.10-12.08.39:467][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.10-12.08.53:354][  0]LogSlate: Took 0.131117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.10-12.08.53:845][  0]LogSlate: Took 0.198107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.10-12.08.54:420][  0]LogSlate: Took 0.078332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.10-12.08.57:152][  0]LogRenderer: Reallocating scene render targets to support 944x556 Format 9 NumSamples 1 (Frame:1).
+[2020.01.10-12.09.03:066][  0]LogSlate: Took 0.263164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.10-12.09.06:713][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.01.10-12.09.06:713][  0]LogLoad: (Engine Initialization) Total time: 619.59 seconds
+[2020.01.10-12.09.06:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.10-12.09.09:465][  0]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_PlayerCharacter_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PlayerCharacter_C_0
+	Function /Game/ABP_PlayerCharacter.ABP_PlayerCharacter_C:ExecuteUbergraph_ABP_PlayerCharacter:0083
+[2020.01.10-12.09.11:883][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.01.10-12.09.11:984][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.09.18:916][  2]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.10-12.09.24:385][ 10]LogAssetRegistry: Asset discovery search completed in 418.0913 seconds
+[2020.01.10-12.09.24:937][ 10]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.10-12.09.24:937][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.143628 seconds (updated 0 objects)
+[2020.01.10-12.11.12:698][790]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.10-12.11.30:872][216]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/BP_Weapon.BP_Weapon
+[2020.01.10-12.11.39:010][216]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2020.01.10-12.11.47:561][216]LogSlate: Took 0.065161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.10-12.13.13:263][692]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/BP_Furniture.BP_Furniture
+[2020.01.10-12.13.13:941][693]LogRenderer: Reallocating scene render targets to support 944x600 Format 9 NumSamples 1 (Frame:1).
+[2020.01.10-12.13.33:503][849]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Admin/Downloads/rocking_chair_1.obj)
+[2020.01.10-12.13.35:165][849]LogFbx: Loading FBX Scene from ../../../../../../Users/Admin/Downloads/rocking_chair_1.obj
+[2020.01.10-12.13.35:542][849]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.10-12.13.50:293][849]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.10-12.14.01:689][849]LogMaterial: Display: Missing cached shader map for material pCylinder24Mat, compiling. 
+[2020.01.10-12.14.02:523][849]LogFbx: Display: Triangulating static mesh pCylinder24
+[2020.01.10-12.14.05:616][849]LogStaticMesh: Building static mesh rocking_chair_1...
+[2020.01.10-12.14.05:953][849]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.01.10-12.14.06:579][849]LogStaticMesh: Built static mesh [1.86s] /Game/rocking_chair_1.rocking_chair_1
+[2020.01.10-12.14.19:583][210]LogActorFactory: Actor Factory created rocking_chair_1
+[2020.01.10-12.14.20:254][213]LogActorFactory: Actor Factory created rocking_chair_1
+[2020.01.10-12.14.32:814][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.14.32:971][627]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.14.33:439][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.14.33:758][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.14.38:624][627]LogSlate: Window 'Message' being destroyed
+[2020.01.10-12.14.41:469][734]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/BP_BaseGhost.BP_BaseGhost
+[2020.01.10-12.14.43:514][735]LogSlate: Took 0.131588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.10-12.14.51:965][ 21]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.10-12.14.58:029][265]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.10-12.15.03:563][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_BaseGhost" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset" SILENT=true
+[2020.01.10-12.15.05:175][393]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_BaseGhost88DD324F41C930623F23BDBF4398B04B.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset'
+[2020.01.10-12.15.05:768][409]BlueprintLog: New page: Compile BP_BaseGhost
+[2020.01.10-12.15.07:008][409]LogUObjectHash: Compacting FUObjectHashTables data took  17.07ms
+[2020.01.10-12.15.10:461][551]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.15.10:500][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.15.10:501][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.15.10:826][551]PIE: New page: PIE session: TestMap (10 Jan 2020 12:15:10)
+[2020.01.10-12.15.11:305][551]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-12.15.11:497][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191344s)
+[2020.01.10-12.15.11:541][551]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.15.11:551][551]LogPlayLevel: PIE: World Init took: (0.024095s)
+[2020.01.10-12.15.11:551][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.246225s)
+[2020.01.10-12.15.11:646][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.01.10-12.15.11:986][551]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.15.12:007][551]LogInit: FAudioDevice initialized.
+[2020.01.10-12.15.12:352][551]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-12.15.12:903][551]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-12.15.12
+[2020.01.10-12.15.14:691][551]LogWorld: Bringing up level for play took: 1.791353
+[2020.01.10-12.15.15:625][551]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.01.10-12.15.15:878][551]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.10-12.15.15:879][551]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2020.01.10-12.15.18:444][551]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 8.081
+[2020.01.10-12.15.18:445][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.15.21:307][553]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.15.21:514][554]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.15.43:809][635]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.15.44:551][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.15.46:535][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-12.15.46:550][635]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.15.48:497][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.15.50:901][635]LogUObjectHash: Compacting FUObjectHashTables data took  10.89ms
+[2020.01.10-12.15.51:366][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.15.51:366][636]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.10-12.15.58:839][880]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/rocking_chair_1.rocking_chair_1
+[2020.01.10-12.15.59:519][880]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.01.10-12.16.07:361][881]LogRenderer: Reallocating scene render targets to support 944x780 Format 9 NumSamples 1 (Frame:1).
+[2020.01.10-12.16.10:229][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rocking_chair_1)
+[2020.01.10-12.16.12:151][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.16.34:638][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/rocking_chair_1" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/rocking_chair_1.uasset" SILENT=true
+[2020.01.10-12.16.34:796][945]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/rocking_chair_1F4CC2B394E2E73E3CA9A798E6BBBBB44.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/rocking_chair_1.uasset'
+[2020.01.10-12.16.46:033][371]LogEditorFactories: Performing atomic reimport of [C:/Users/Admin/Downloads/rocking_chair_1.obj]
+[2020.01.10-12.16.46:086][371]LogFbx: Loading FBX Scene from C:/Users/Admin/Downloads/rocking_chair_1.obj
+[2020.01.10-12.16.46:126][371]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.10-12.16.46:692][371]LogFbx: Display: Triangulating static mesh pCylinder24
+[2020.01.10-12.16.47:324][371]LogStaticMesh: Building static mesh rocking_chair_1...
+[2020.01.10-12.16.47:414][371]LogStaticMesh: Built static mesh [0.34s] /Game/rocking_chair_1.rocking_chair_1
+[2020.01.10-12.16.48:952][371]LogEditorFactories: -- imported successfully
+[2020.01.10-12.16.56:616][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.16.57:061][682]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.16.57:094][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.16.57:095][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.16.57:095][682]PIE: New page: PIE session: TestMap (10 Jan 2020 12:16:57)
+[2020.01.10-12.16.57:095][682]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-12.16.57:113][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018566s)
+[2020.01.10-12.16.57:114][682]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.16.57:114][682]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2020.01.10-12.16.57:114][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.019459s)
+[2020.01.10-12.16.57:207][682]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2020.01.10-12.16.57:222][682]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.16.57:234][682]LogInit: FAudioDevice initialized.
+[2020.01.10-12.16.57:383][682]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-12.16.57:386][682]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-12.16.57
+[2020.01.10-12.16.57:388][682]LogWorld: Bringing up level for play took: 0.004566
+[2020.01.10-12.16.57:405][682]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 1.042
+[2020.01.10-12.16.57:405][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.16.57:781][702]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.16.57:922][711]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.16.58:540][732]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.16.58:555][733]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.16.58:719][743]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.17.07:250][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.17.07:252][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.17.07:295][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-12.17.07:295][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.17.07:351][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.17.07:581][179]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.01.10-12.17.07:618][180]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.10-12.17.09:200][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.17.21:249][351]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Admin/Desktop/T_SquarePar.png)
+[2020.01.10-12.17.21:946][351]LogTexture: Display: Building textures: T_SquarePar (AutoDXT, 64X64)
+[2020.01.10-12.17.33:491][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/rocking_chair_1" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/rocking_chair_1.uasset" SILENT=true
+[2020.01.10-12.17.33:524][885]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/rocking_chair_1486F3D7943274340C9A42BA1FB757BAF.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/rocking_chair_1.uasset'
+[2020.01.10-12.17.33:534][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T_SquarePar" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/T_SquarePar.uasset" SILENT=true
+[2020.01.10-12.17.33:544][885]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/T_SquarePar41E2D7144019EA8B072EF4AECFB5D11B.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/T_SquarePar.uasset'
+[2020.01.10-12.17.33:579][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/pCylinder24Mat" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/pCylinder24Mat.uasset" SILENT=true
+[2020.01.10-12.17.33:756][885]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/pCylinder24MatCAEE3F8F4A17467A15AC09923210778C.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/pCylinder24Mat.uasset'
+[2020.01.10-12.17.35:206][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.01.10-12.17.35:251][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.01.10-12.17.35:291][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.10-12.17.35:339][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.01.10-12.17.35:382][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.01.10-12.17.45:613][384]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.47:436][460]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/M_SquarePar.M_SquarePar
+[2020.01.10-12.17.48:007][460]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.48:802][460]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.48:868][460]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.48:991][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.10-12.17.50:057][468]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.10-12.17.52:418][556]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.55:503][660]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.57:607][724]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.57:662][724]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.10-12.17.57:948][724]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.58:233][724]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.58:251][724]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.10-12.17.58:808][750]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.17.58:897][751]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.10-12.18.00:725][847]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.00:972][847]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.01:165][847]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.01:221][848]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.08:141][168]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.08:436][179]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.11:048][312]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.12:424][373]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.13:897][441]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.13:905][441]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.14:069][441]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.14:101][442]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.15:763][527]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.15:827][527]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.18:638][666]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.19:057][666]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.19:057][666]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.10-12.18.19:264][675]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.19:900][708]LogMaterialEditor: Saving and Compiling material M_SquarePar
+[2020.01.10-12.18.47:162][708]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.47:209][708]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.18.48:005][708]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.48:264][708]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.18.48:321][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.10-12.18.48:607][708]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.10-12.18.50:536][708]TextureStreamingBuild: Display: Compiling optional shaders took 2.133 seconds.
+[2020.01.10-12.18.50:835][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.10-12.18.52:329][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SquarePar" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/M_SquarePar.uasset" SILENT=true
+[2020.01.10-12.18.52:492][708]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/M_SquarePar7AAE10AD420B19AED114D9A148E5228C.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/M_SquarePar.uasset'
+[2020.01.10-12.18.52:941][708]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2020.01.10-12.18.52:941][708]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.01.10-12.18.52:941][708]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.10-12.18.52:941][708]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.10-12.18.52:941][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.10-12.19.52:204][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.10-12.19.53:866][977]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/TestMap_Auto14C2BADB74D29D498FADE53A51292F37D.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Autosaves/Game/Maps/TestMap_Auto1.umap'
+[2020.01.10-12.19.54:056][977]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap' took 1.897
+[2020.01.10-12.19.54:056][977]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.897
+[2020.01.10-12.19.54:067][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BP_Furniture] ([1] browsable assets)...
+[2020.01.10-12.19.54:067][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Furniture]
+[2020.01.10-12.19.54:092][977]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture_Auto10F1592BC4D3D497F9BA2D7B20E13D3B6.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Autosaves/Game/Blueprint/BP_Furniture_Auto1.uasset'
+[2020.01.10-12.19.54:094][977]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.01.10-12.22.48:627][251]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Assets/Possession.Possession
+[2020.01.10-12.22.49:290][251]LogBlueprintActionDatabase: Requesting refresh due to module change: Cascade (loaded)
+[2020.01.10-12.22.49:290][251]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.01.10-12.22.51:465][251]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2020.01.10-12.22.59:599][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.23.22:567][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.23.27:881][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.23.29:328][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.23.47:395][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.23.57:926][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.23.58:926][462]LogMaterial: Warning: Material /Game/Assets/M_SquarePar.M_SquarePar needed to have new flag set bUsedWithParticleSprites !
+[2020.01.10-12.23.58:926][462]LogMaterial: Warning: Material /Engine/Transient.M_SquarePar needed to have new flag set bUsedWithParticleSprites !
+[2020.01.10-12.23.58:929][462]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.23.58:953][462]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.10-12.23.58:953][462]LogMaterial: Display: Missing cached shader map for material M_SquarePar, compiling. 
+[2020.01.10-12.24.09:535][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.24.20:257][485]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.10-12.24.42:799][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.24.54:725][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.24.55:520][202]LogMaterialEditor: Saving and Compiling material M_SquarePar
+[2020.01.10-12.24.55:551][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SquarePar" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/M_SquarePar.uasset" SILENT=true
+[2020.01.10-12.24.55:588][202]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/M_SquarePar585ED8B8474C2F7191E796B4C32E17C1.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/M_SquarePar.uasset'
+[2020.01.10-12.25.05:576][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.25.09:197][745]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.10-12.25.13:047][909]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.10-12.25.42:636][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Possession" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset" SILENT=true
+[2020.01.10-12.25.47:460][319]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Possession05ECEFA046BA5A13FDFFB9A419D0BB49.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset'
+[2020.01.10-12.25.52:261][550]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2020.01.10-12.25.52:262][550]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.01.10-12.25.52:262][550]MaterialEditorStats: Texture samplers: 7/16
+[2020.01.10-12.25.52:262][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.10-12.25.52:262][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.10-12.25.58:461][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.26.22:576][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.26.32:412][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.26.39:469][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.26.59:876][186]LogCascade: Non-seeded module ParticleModuleLocation
+[2020.01.10-12.27.00:964][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.27.06:759][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.27.23:557][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.10-12.27.28:960][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.27.34:323][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.27.49:735][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.28.10:977][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Possession" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset" SILENT=true
+[2020.01.10-12.28.17:492][780]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Possession178977EF4D621171F0B6C4BE95602658.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset'
+[2020.01.10-12.28.50:909][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.10-12.28.53:178][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.29.06:813][ 85]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.10-12.29.19:565][729]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.01.10-12.29.20:377][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.21:435][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.21:444][729]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.10-12.29.21:494][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.21:500][729]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.10-12.29.21:532][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.21:553][729]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.01.10-12.29.21:612][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.22:192][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.22:230][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.22:714][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.23:077][765]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.01.10-12.29.23:122][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.23:569][787]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.10-12.29.23:599][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.23:640][788]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.10-12.29.23:660][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.36:759][429]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.10-12.29.40:402][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.29.52:596][192]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.10-12.29.54:006][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.29.56:503][393]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.10-12.29.57:768][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.30.05:385][880]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.30.05:424][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.05:424][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.30.05:424][880]PIE: New page: PIE session: TestMap (10 Jan 2020 12:30:05)
+[2020.01.10-12.30.05:424][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-12.30.05:442][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017873s)
+[2020.01.10-12.30.05:443][880]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.30.05:443][880]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2020.01.10-12.30.05:443][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.018891s)
+[2020.01.10-12.30.05:621][880]LogUObjectHash: Compacting FUObjectHashTables data took  23.15ms
+[2020.01.10-12.30.05:657][880]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.30.05:672][880]LogInit: FAudioDevice initialized.
+[2020.01.10-12.30.05:702][880]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-12.30.05:706][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-12.30.05
+[2020.01.10-12.30.05:708][880]LogWorld: Bringing up level for play took: 0.004502
+[2020.01.10-12.30.05:727][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap -0.636
+[2020.01.10-12.30.05:727][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.06:120][901]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.30.06:275][911]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.30.12:643][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.12:644][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.30.12:684][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-12.30.12:685][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.12:735][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.30.12:754][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.01.10-12.30.12:776][335]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.10-12.30.13:870][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.30.27:958][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.30.41:233][865]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.30.41:271][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.41:272][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.30.41:272][865]PIE: New page: PIE session: TestMap (10 Jan 2020 12:30:41)
+[2020.01.10-12.30.41:272][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-12.30.41:292][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019466s)
+[2020.01.10-12.30.41:292][865]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.30.41:293][865]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2020.01.10-12.30.41:293][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.020418s)
+[2020.01.10-12.30.41:336][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.10-12.30.41:349][865]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.30.41:360][865]LogInit: FAudioDevice initialized.
+[2020.01.10-12.30.41:385][865]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-12.30.41:388][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-12.30.41
+[2020.01.10-12.30.41:389][865]LogWorld: Bringing up level for play took: 0.003355
+[2020.01.10-12.30.41:405][865]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 1.043
+[2020.01.10-12.30.41:405][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.41:776][887]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.30.41:934][897]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.30.49:341][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.49:341][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.30.49:396][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-12.30.49:396][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.30.49:446][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.30.49:452][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.01.10-12.30.49:478][357]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.10-12.30.51:444][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.30.52:323][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.31.08:243][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.31.14:500][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Possession" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset" SILENT=true
+[2020.01.10-12.31.14:567][893]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Possession77C57C3140B905F2E8DBE78153BD5F75.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset'
+[2020.01.10-12.31.21:977][314]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.31.24:381][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.31.47:391][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Possession" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset" SILENT=true
+[2020.01.10-12.31.47:414][866]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Possession06D85CE94440B3CEA92B6AB20BB24AE9.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Assets/Possession.uasset'
+[2020.01.10-12.31.54:437][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.31.55:613][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.31.55:628][332]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture0783E3AD4EF7AD7463EC029E394FB9BD.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.31.55:933][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.31.56:004][350]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.31.56:261][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.01.10-12.32.28:539][867]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.01.10-12.32.34:287][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.32.37:868][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.32.48:460][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.32.48:607][844]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureD083B6BC4A33DF4BEADF4C995AC49F2F.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.32.49:051][865]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.32.49:445][865]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2020.01.10-12.32.58:656][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.32.58:739][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.32.58:900][305]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture9FE7D3734E97344FDA2B53A6C597E373.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.32.59:143][316]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.32.59:428][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.01.10-12.33.31:076][  8]LogSlate: Took 0.017353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.10-12.35.00:698][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.35.00:751][321]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture93E6325F47AEB6B99DC9BE97FF6C6D62.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.35.01:133][341]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.35.01:387][341]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.01.10-12.35.31:838][819]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprint/sGhostStats.sGhostStats
+[2020.01.10-12.35.43:187][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/sGhostStats" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/sGhostStats.uasset" SILENT=true
+[2020.01.10-12.35.43:196][567]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/sGhostStats2D20081749D180004A32F4B45D696631.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/sGhostStats.uasset'
+[2020.01.10-12.36.03:422][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.36.03:495][660]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture9BA312A542080748374D42A29FB3FBA0.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.36.03:773][674]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.36.04:019][674]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.01.10-12.36.13:189][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_BaseGhost" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset" SILENT=true
+[2020.01.10-12.36.13:470][133]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_BaseGhost7F96FC0542446D11404688A1C211486B.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset'
+[2020.01.10-12.36.13:963][159]BlueprintLog: New page: Compile BP_BaseGhost
+[2020.01.10-12.36.14:270][159]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.01.10-12.36.26:795][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.36.26:838][803]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureF7DABBD945BB0D0FD1713B9B6EA39ED2.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.36.27:282][826]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.36.27:532][826]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.01.10-12.39.28:552][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.39.28:666][941]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture54AE6C3440690A4FDD4EB68E5A295379.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.39.28:884][952]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.39.29:141][952]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.01.10-12.39.40:671][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.40.10:368][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.40.10:415][139]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture29B6AFF64D3EDB4522CB46823231A7EF.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.40.10:819][159]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.40.11:087][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.01.10-12.40.55:126][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.40.55:181][526]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureE0CBC91F46DF58774433A297E25642D7.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.40.55:524][543]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.40.55:788][543]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.01.10-12.41.02:073][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.41.02:123][838]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureDDB64A8B49FECA0383FFCF9D6A062CFF.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.41.03:193][891]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.41.03:444][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.01.10-12.41.12:693][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.41.12:768][344]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture538B7BD443938E6E3905B0A39B7DD0FB.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.41.13:070][358]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.41.13:322][358]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.01.10-12.41.16:636][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.41.16:688][513]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture9B8AF5424FB8925D539DD78A4224056E.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.41.17:008][527]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.41.17:328][527]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.01.10-12.41.37:875][569]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.10-12.41.46:392][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.41.46:444][991]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture7EB352B3412464591E8F1697B840D840.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.41.46:739][  5]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.41.46:992][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.01.10-12.41.58:309][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.41.58:360][585]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureAD996AC944ED8A76183567AF2AAE0383.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.41.58:610][598]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.41.58:861][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.01.10-12.42.00:235][657]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.42.00:279][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.00:279][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.42.00:279][657]PIE: New page: PIE session: TestMap (10 Jan 2020 12:42:00)
+[2020.01.10-12.42.00:279][657]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-12.42.00:297][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018587s)
+[2020.01.10-12.42.00:297][657]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.42.00:298][657]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2020.01.10-12.42.00:298][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.019512s)
+[2020.01.10-12.42.00:344][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.01.10-12.42.00:360][657]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.42.00:373][657]LogInit: FAudioDevice initialized.
+[2020.01.10-12.42.00:405][657]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-12.42.00:412][657]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-12.42.00
+[2020.01.10-12.42.00:415][657]LogWorld: Bringing up level for play took: 0.008192
+[2020.01.10-12.42.00:437][657]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.075
+[2020.01.10-12.42.00:438][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.00:823][675]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.42.00:962][683]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.42.07:043][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.07:043][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.42.07:085][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-12.42.07:086][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.07:129][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.42.07:135][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.01.10-12.42.07:159][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.10-12.42.08:120][ 78]LogEditorViewport: Clicking on Actor (LMB): Emitter (Possession)
+[2020.01.10-12.42.08:494][ 91]Cmd: DELETE
+[2020.01.10-12.42.08:494][ 91]Cmd: ACTOR DELETE
+[2020.01.10-12.42.08:810][ 91]LogEditorActor: Deleted Actor: Emitter
+[2020.01.10-12.42.08:856][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.10-12.42.08:856][ 91]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2020.01.10-12.42.09:365][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rocking_chair_1)
+[2020.01.10-12.42.09:803][138]Cmd: DELETE
+[2020.01.10-12.42.09:803][138]Cmd: ACTOR DELETE
+[2020.01.10-12.42.09:810][138]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.10-12.42.09:851][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.01.10-12.42.09:851][138]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.01.10-12.42.11:160][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.42.16:044][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.42.16:143][457]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.42.16:277][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.16:277][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.42.16:277][457]PIE: New page: PIE session: TestMap (10 Jan 2020 12:42:16)
+[2020.01.10-12.42.16:278][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-12.42.16:334][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056022s)
+[2020.01.10-12.42.16:336][457]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.42.16:336][457]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2020.01.10-12.42.16:336][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.057738s)
+[2020.01.10-12.42.16:387][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.01.10-12.42.16:399][457]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.42.16:408][457]LogInit: FAudioDevice initialized.
+[2020.01.10-12.42.16:437][457]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-12.42.16:440][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-12.42.16
+[2020.01.10-12.42.16:523][457]LogWorld: Bringing up level for play took: 0.085366
+[2020.01.10-12.42.16:546][457]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.183
+[2020.01.10-12.42.16:546][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.16:943][471]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.42.17:100][480]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.42.17:463][501]LogBlueprintUserMessages: [BP_BaseGhost_3] Hello
+[2020.01.10-12.42.24:686][912]LogBlueprintUserMessages: [BP_Furniture_2] Hello
+[2020.01.10-12.42.25:307][947]LogBlueprintUserMessages: [BP_Furniture_2] Hello
+[2020.01.10-12.42.25:680][968]LogBlueprintUserMessages: [BP_Furniture_2] Hello
+[2020.01.10-12.42.25:984][984]LogBlueprintUserMessages: [BP_Furniture_2] Hello
+[2020.01.10-12.42.26:270][  0]LogBlueprintUserMessages: [BP_Furniture_2] Hello
+[2020.01.10-12.42.27:786][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.27:787][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.42.27:829][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-12.42.27:829][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.42.27:878][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.42.27:884][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.10-12.42.27:908][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.10-12.42.34:159][423]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.10-12.42.36:842][550]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.10-12.42.37:963][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.42.38:066][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.10-12.42.38:126][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.01.10-12.42.38:489][605]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/TestMap0BA230104B1CAFEB537278985F72984F.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap.umap'
+[2020.01.10-12.42.38:577][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_BuiltData" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2020.01.10-12.42.38:694][605]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/TestMap_BuiltData37F8C56040444A4FECC9A3903B12A269.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap_BuiltData.uasset'
+[2020.01.10-12.43.07:444][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.43.07:499][ 12]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureAA0A99AB4FA17C3B4BD07D9F9AFB6FF7.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.43.07:822][ 28]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.43.08:083][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.01.10-12.43.27:095][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.43.29:232][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.43.29:286][ 61]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture0716627D4A1FF49D7A201C8ECC557842.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.43.29:574][ 75]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.43.29:823][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.01.10-12.43.37:926][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.43.37:979][465]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureA285BE744F7B1A97B2E1D2A192BEEE79.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.43.38:403][487]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.43.38:654][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.01.10-12.43.55:269][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.43.55:324][342]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureE47AB8A8495C7A181EC805B96E34C686.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.43.55:557][353]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.43.55:825][353]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.01.10-12.44.32:286][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.44.32:345][325]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureA5DDB5B2412C9F782E4AE89ED863A7A8.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.44.32:609][339]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.44.32:864][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.01.10-12.44.37:447][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_BaseGhost" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset" SILENT=true
+[2020.01.10-12.44.37:524][559]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_BaseGhost6FC12B4040D118381811DF82443C54BF.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset'
+[2020.01.10-12.44.37:853][575]BlueprintLog: New page: Compile BP_BaseGhost
+[2020.01.10-12.44.38:135][575]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.01.10-12.45.04:968][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_BaseGhost" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset" SILENT=true
+[2020.01.10-12.45.05:041][  7]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_BaseGhostD6E121B04FC97ED1AB68009A196B46B6.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset'
+[2020.01.10-12.45.21:896][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_BaseGhost" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset" SILENT=true
+[2020.01.10-12.45.21:966][817]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_BaseGhost3E428549415EF1E435E72786C51EECCC.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset'
+[2020.01.10-12.45.22:234][829]BlueprintLog: New page: Compile BP_BaseGhost
+[2020.01.10-12.45.22:539][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.10-12.45.53:183][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.45.53:298][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.45.53:357][316]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture010A35BC44DA1C21C2BEFCBB80ED60C4.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.45.53:717][333]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.45.53:764][333]LogBlueprint: Error: [Compiler BP_Furniture] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.01.10-12.45.53:765][333]LogBlueprint: Error: [Compiler BP_Furniture] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.01.10-12.45.54:122][333]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.01.10-12.45.54:129][333]LogBlueprint: Warning: [Compiler BP_Furniture] [2827.01] Compile of BP_Furniture failed. 2 Fatal Issue(s) 0 Warning(s) [in 410 ms] (/Game/Blueprint/BP_Furniture.BP_Furniture)
+[2020.01.10-12.46.24:013][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.46.24:201][900]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture451D68AB47DCE8D8F6E519AB9CE16A81.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.46.24:396][909]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.46.24:652][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.01.10-12.46.29:157][120]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.10-12.46.30:434][181]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.10-12.46.31:590][237]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.10-12.46.32:127][260]LogEditorViewport: Clicking on Actor (LMB): BP_Furniture_C (BP_Furniture)
+[2020.01.10-12.46.34:290][365]LogEditorViewport: Clicking on Actor (LMB): BP_BaseGhost_C (BP_BaseGhost)
+[2020.01.10-12.46.35:389][390]Cmd: DELETE
+[2020.01.10-12.46.35:390][390]Cmd: ACTOR DELETE
+[2020.01.10-12.46.35:398][390]LogEditorActor: Deleted Actor: BP_BaseGhost_C
+[2020.01.10-12.46.35:444][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.01.10-12.46.35:445][390]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.01.10-12.46.36:654][452]LogEditorViewport: Clicking on Actor (LMB): BP_Furniture_C (BP_Furniture)
+[2020.01.10-12.46.41:321][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.46.41:918][706]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.10-12.46.43:861][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.10-12.46.43:906][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.01.10-12.46.44:261][797]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/TestMap2EAB94954C0C3E4561DA2D94EEDF5538.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap.umap'
+[2020.01.10-12.46.44:302][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_BuiltData" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2020.01.10-12.46.44:352][797]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/TestMap_BuiltData0205318D45CD84B18E093FA1D4717A83.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Maps/TestMap_BuiltData.uasset'
+[2020.01.10-12.46.51:003][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_BaseGhost" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset" SILENT=true
+[2020.01.10-12.46.51:073][104]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_BaseGhost1AD51E1B499ED9836F38A181AA1EEEAC.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_BaseGhost.uasset'
+[2020.01.10-12.46.51:337][116]BlueprintLog: New page: Compile BP_BaseGhost
+[2020.01.10-12.46.51:623][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.01.10-12.46.54:177][232]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.10-12.46.57:459][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.46.57:517][392]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureCB9CEC9D445B402865D82AA9B7A96C04.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.46.57:756][404]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.46.58:020][404]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.01.10-12.47.08:860][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.47.08:929][927]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureAC9721784B9C81716A6E41BA051CE9CC.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.47.09:175][939]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.47.09:442][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.10-12.47.10:790][988]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-12.47.10:849][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.47.10:849][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-12.47.10:849][988]PIE: New page: PIE session: TestMap (10 Jan 2020 12:47:10)
+[2020.01.10-12.47.10:849][988]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-12.47.10:875][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025395s)
+[2020.01.10-12.47.10:876][988]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-12.47.10:876][988]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2020.01.10-12.47.10:876][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.026840s)
+[2020.01.10-12.47.10:934][988]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.01.10-12.47.10:950][988]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-12.47.10:964][988]LogInit: FAudioDevice initialized.
+[2020.01.10-12.47.10:991][988]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-12.47.10:994][988]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-12.47.10
+[2020.01.10-12.47.11:021][988]LogWorld: Bringing up level for play took: 0.029560
+[2020.01.10-12.47.11:087][988]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.724
+[2020.01.10-12.47.11:087][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.47.18:281][382]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn
+	FindPlayer_C /Game/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_baseGhostController_C_3.BTComponent.FindPlayer_C_0
+	Function /Game/Blueprint/AI/FindPlayer.FindPlayer_C:ExecuteUbergraph_FindPlayer:00F2
+[2020.01.10-12.47.18:281][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn". Blueprint:  FindPlayer Function:  Execute Ubergraph Find Player Graph:  EventGraph Node:  SphereTraceForObjects
+[2020.01.10-12.47.18:281][382]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-12.47.18:282][382]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.47.18:282][382]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-12.47.18:992][421]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-12.47.24:840][743]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-12.47.24:931][748]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-12.47.24:985][751]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-12.47.33:148][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.47.33:148][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.47.33:197][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-12.47.33:197][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-12.47.33:471][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-12.47.33:494][207]LogUObjectHash: Compacting FUObjectHashTables data took  12.18ms
+[2020.01.10-12.47.33:512][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-12.47.33:576][208]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.10-12.48.01:589][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.48.01:671][550]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture1E57B3584F397E1012037BB64A96D434.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.48.02:002][566]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.48.02:261][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.01.10-12.48.15:343][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-12.48.19:350][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-12.48.19:413][472]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture529927CB46CB7BD6F8543CABD52DA94C.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-12.48.19:772][489]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-12.48.20:033][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.01.10-12.48.32:772][938]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/BP_GhostPlayer.BP_GhostPlayer
+[2020.01.10-12.57.06:558][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.01.10-12.57.07:309][918]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/TestMap_Auto226F74C9140864EBA4F8FB6BD4028C5E5.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Autosaves/Game/Maps/TestMap_Auto2.umap'
+[2020.01.10-12.57.07:313][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap' took 0.816
+[2020.01.10-12.57.07:313][918]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.816
+[2020.01.10-13.09.18:205][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.09.18:330][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-13.09.18:396][746]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureC131211A412FFB7C1E8FDBB026DF7412.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-13.09.18:745][763]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-13.09.19:014][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.01.10-13.10.06:819][159]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.10-13.10.25:609][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GhostPlayer" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GhostPlayer.uasset" SILENT=true
+[2020.01.10-13.10.25:850][ 93]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GhostPlayerD546DAC642BC1BB31ECAE193B623FAF1.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GhostPlayer.uasset'
+[2020.01.10-13.10.25:991][ 95]BlueprintLog: New page: Compile BP_GhostPlayer
+[2020.01.10-13.10.26:853][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.01.10-13.10.47:283][ 86]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.10-13.12.12:849][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GhostPlayer" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GhostPlayer.uasset" SILENT=true
+[2020.01.10-13.12.12:944][326]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GhostPlayerA610FA82443F11E188DA8FB5D19DF5A9.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GhostPlayer.uasset'
+[2020.01.10-13.12.13:227][338]BlueprintLog: New page: Compile BP_GhostPlayer
+[2020.01.10-13.12.13:597][338]LogUObjectHash: Compacting FUObjectHashTables data took  28.42ms
+[2020.01.10-13.12.22:441][735]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.10-13.12.26:541][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.12.39:833][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-13.12.39:913][532]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureB84F9E454866FBFD89B32CB6C4511463.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-13.12.40:247][547]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-13.12.40:550][547]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.01.10-13.13.23:380][797]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.01.10-13.13.23:770][797]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/TestMap_Auto30EC51A7246E1D718244CE695B53FFAD0.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Autosaves/Game/Maps/TestMap_Auto3.umap'
+[2020.01.10-13.13.23:774][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap' took 0.449
+[2020.01.10-13.13.23:774][797]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.449
+[2020.01.10-13.13.23:791][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_Furniture] ([1] browsable assets)...
+[2020.01.10-13.13.23:817][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Furniture.BP_Furniture]
+[2020.01.10-13.13.23:817][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Furniture]
+[2020.01.10-13.13.23:879][797]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture_Auto36879494E4FF527670E80F1923F6D3FF0.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/Autosaves/Game/Blueprint/BP_Furniture_Auto3.uasset'
+[2020.01.10-13.13.23:889][797]LogFileHelpers: Auto-saving content packages took 0.113
+[2020.01.10-13.13.58:562][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-13.13.58:627][629]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_FurnitureA8CB2DF349A03F85859FC0AAB46E31D7.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-13.13.58:957][639]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-13.13.59:228][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.01.10-13.14.02:423][778]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/BP_DustPickup.BP_DustPickup
+[2020.01.10-13.14.08:532][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.14.11:446][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_DustPickup" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_DustPickup.uasset" SILENT=true
+[2020.01.10-13.14.11:508][191]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_DustPickup9E75AE764CC6EBFE40561EBC7034802D.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_DustPickup.uasset'
+[2020.01.10-13.14.11:780][198]BlueprintLog: New page: Compile BP_DustPickup
+[2020.01.10-13.14.12:072][198]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.01.10-13.14.13:618][254]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-13.14.13:666][254]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.14.13:666][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-13.14.13:666][254]PIE: New page: PIE session: TestMap (10 Jan 2020 13:14:13)
+[2020.01.10-13.14.13:666][254]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-13.14.14:001][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.334260s)
+[2020.01.10-13.14.14:001][254]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-13.14.14:001][254]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2020.01.10-13.14.14:002][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.335127s)
+[2020.01.10-13.14.14:052][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.01.10-13.14.14:157][254]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-13.14.14:177][254]LogInit: FAudioDevice initialized.
+[2020.01.10-13.14.14:210][254]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-13.14.14:212][254]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-13.14.14
+[2020.01.10-13.14.14:213][254]LogWorld: Bringing up level for play took: 0.002789
+[2020.01.10-13.14.14:249][254]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap -0.114
+[2020.01.10-13.14.14:249][254]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.14.18:997][509]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn
+	FindPlayer_C /Game/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_baseGhostController_C_3.BTComponent.FindPlayer_C_0
+	Function /Game/Blueprint/AI/FindPlayer.FindPlayer_C:ExecuteUbergraph_FindPlayer:00F2
+[2020.01.10-13.14.18:998][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn". Blueprint:  FindPlayer Function:  Execute Ubergraph Find Player Graph:  EventGraph Node:  SphereTraceForObjects
+[2020.01.10-13.14.19:000][509]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-13.14.19:000][509]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-13.14.19:001][509]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-13.14.19:001][509]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-13.14.19:001][509]LogBlueprintUserMessages: [BP_BaseGhost_C_0] Hello
+[2020.01.10-13.14.25:770][890]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-13.14.25:791][891]LogBlueprintUserMessages: [BP_BaseGhost2_7] Hello
+[2020.01.10-13.14.26:214][898]LogBlueprintUserMessages: [BP_BaseGhost2_7] Hello
+[2020.01.10-13.14.26:749][921]LogBlueprintUserMessages: [BP_BaseGhost2_7] Hello
+[2020.01.10-13.14.34:446][368]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-13.14.34:447][368]LogBlueprintUserMessages: [BP_BaseGhost3_11] Hello
+[2020.01.10-13.14.34:567][375]LogBlueprintUserMessages: [BP_BaseGhost3_11] Hello
+[2020.01.10-13.14.35:206][413]LogBlueprintUserMessages: [BP_BaseGhost3_11] Hello
+[2020.01.10-13.14.41:564][776]LogBlueprintUserMessages: [GhostStunAttack_C_0] Boop
+[2020.01.10-13.14.41:599][778]LogBlueprintUserMessages: [BP_BaseGhost4_15] Hello
+[2020.01.10-13.14.41:669][782]LogBlueprintUserMessages: [BP_BaseGhost4_15] Hello
+[2020.01.10-13.14.42:536][832]LogBlueprintUserMessages: [BP_BaseGhost4_15] Hello
+[2020.01.10-13.14.50:556][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.14.50:557][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.14.50:598][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-13.14.50:598][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.14.50:650][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.14.50:657][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.10-13.14.50:667][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-13.14.50:694][296]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.10-13.14.54:403][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.10-13.14.55:401][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.10-13.14.55:899][558]LogEditorViewport: Clicking on Actor (LMB): BP_Furniture_C (BP_Furniture)
+[2020.01.10-13.14.59:734][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.14.59:794][740]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-13.14.59:834][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.14.59:834][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-13.14.59:834][740]PIE: New page: PIE session: TestMap (10 Jan 2020 13:14:59)
+[2020.01.10-13.14.59:834][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-13.14.59:852][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018035s)
+[2020.01.10-13.14.59:853][740]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-13.14.59:853][740]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2020.01.10-13.14.59:853][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.018990s)
+[2020.01.10-13.14.59:902][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.01.10-13.14.59:915][740]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-13.14.59:924][740]LogInit: FAudioDevice initialized.
+[2020.01.10-13.14.59:954][740]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-13.14.59:957][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-13.14.59
+[2020.01.10-13.14.59:958][740]LogWorld: Bringing up level for play took: 0.002872
+[2020.01.10-13.14.59:974][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap -0.389
+[2020.01.10-13.14.59:974][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.15.09:603][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.15.09:603][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.15.09:646][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-13.15.09:647][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.15.09:700][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.15.09:706][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.01.10-13.15.09:732][290]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.10-13.15.10:297][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.15.13:043][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-13.15.13:118][460]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture9ADC46AD40C1DD5AA07E779914B2EEA0.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-13.15.13:476][480]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-13.15.13:757][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.01.10-13.15.15:095][544]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-13.15.15:149][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.15.15:149][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-13.15.15:149][544]PIE: New page: PIE session: TestMap (10 Jan 2020 13:15:15)
+[2020.01.10-13.15.15:150][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-13.15.15:170][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019723s)
+[2020.01.10-13.15.15:171][544]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-13.15.15:171][544]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2020.01.10-13.15.15:171][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.021193s)
+[2020.01.10-13.15.15:240][544]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.01.10-13.15.15:259][544]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-13.15.15:271][544]LogInit: FAudioDevice initialized.
+[2020.01.10-13.15.15:300][544]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-13.15.15:303][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-13.15.15
+[2020.01.10-13.15.15:304][544]LogWorld: Bringing up level for play took: 0.003307
+[2020.01.10-13.15.15:320][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.957
+[2020.01.10-13.15.15:320][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.15.24:219][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.15.24:219][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.15.24:261][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-13.15.24:261][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.15.24:317][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.15.24:323][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.10-13.15.24:352][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.01.10-13.15.25:673][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.15.31:165][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Furniture" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset" SILENT=true
+[2020.01.10-13.15.31:232][410]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_Furniture8B5ED6D342466D3E875F94BBDC7A3DF1.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_Furniture.uasset'
+[2020.01.10-13.15.31:537][424]BlueprintLog: New page: Compile BP_Furniture
+[2020.01.10-13.15.31:806][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.01.10-13.16.04:818][274]LogEditorViewport: Clicking on Actor (LMB): BP_BaseGhost_C (BP_BaseGhost4)
+[2020.01.10-13.16.05:884][322]Cmd: DELETE
+[2020.01.10-13.16.05:884][322]Cmd: ACTOR DELETE
+[2020.01.10-13.16.05:939][322]LogEditorActor: Deleted Actor: BP_BaseGhost_C
+[2020.01.10-13.16.06:023][322]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.01.10-13.16.06:023][322]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2020.01.10-13.16.06:209][331]LogEditorViewport: Clicking on Actor (LMB): BP_BaseGhost_C (BP_BaseGhost3)
+[2020.01.10-13.16.06:437][338]Cmd: DELETE
+[2020.01.10-13.16.06:437][338]Cmd: ACTOR DELETE
+[2020.01.10-13.16.06:444][338]LogEditorActor: Deleted Actor: BP_BaseGhost_C
+[2020.01.10-13.16.06:503][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.01.10-13.16.06:504][338]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.01.10-13.16.07:185][376]LogEditorViewport: Clicking on Actor (LMB): BP_BaseGhost_C (BP_BaseGhost2)
+[2020.01.10-13.16.07:472][386]Cmd: DELETE
+[2020.01.10-13.16.07:472][386]Cmd: ACTOR DELETE
+[2020.01.10-13.16.07:479][386]LogEditorActor: Deleted Actor: BP_BaseGhost_C
+[2020.01.10-13.16.07:527][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.01.10-13.16.07:528][386]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.01.10-13.16.08:271][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.10-13.16.09:252][476]LogEditorViewport: Clicking on Actor (LMB): BP_Furniture_C (BP_Furniture)
+[2020.01.10-13.16.10:743][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.16.13:819][678]Cmd: DUPLICATE
+[2020.01.10-13.16.13:819][678]Cmd: ACTOR DUPLICATE
+[2020.01.10-13.16.23:356][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.16.23:853][144]Cmd: DUPLICATE
+[2020.01.10-13.16.23:853][144]Cmd: ACTOR DUPLICATE
+[2020.01.10-13.16.36:722][784]Cmd: DUPLICATE
+[2020.01.10-13.16.36:722][784]Cmd: ACTOR DUPLICATE
+[2020.01.10-13.16.42:520][ 67]Cmd: DUPLICATE
+[2020.01.10-13.16.42:520][ 67]Cmd: ACTOR DUPLICATE
+[2020.01.10-13.16.53:777][634]Cmd: DUPLICATE
+[2020.01.10-13.16.53:777][634]Cmd: ACTOR DUPLICATE
+[2020.01.10-13.17.00:180][933]Cmd: DUPLICATE
+[2020.01.10-13.17.00:180][933]Cmd: ACTOR DUPLICATE
+[2020.01.10-13.17.11:583][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.17.14:715][613]LogEditorViewport: Clicking on Actor (LMB): BP_GameCamera_C (BP_GameCamera9)
+[2020.01.10-13.17.19:576][826]LogEditorViewport: Clicking on Actor (LMB): BP_GameCamera_C (BP_GameCamera)
+[2020.01.10-13.17.23:974][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-13.17.24:732][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.10-13.17.24:735][ 70]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/BP_GameCamera.BP_GameCamera
+[2020.01.10-13.17.32:720][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.17.32:814][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameCamera" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset" SILENT=true
+[2020.01.10-13.17.32:940][465]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GameCamera5302ACB846340B71C84C438EA8F715D2.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset'
+[2020.01.10-13.17.33:339][481]BlueprintLog: New page: Compile BP_GameCamera
+[2020.01.10-13.17.34:114][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.01.10-13.17.36:012][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.17.38:703][694]LogEditorViewport: Clicking on Actor (LMB): BP_GameCamera_C (BP_GameCamera)
+[2020.01.10-13.17.42:141][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.17.48:870][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.17.48:961][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameCamera" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset" SILENT=true
+[2020.01.10-13.17.49:009][214]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GameCameraDB44C4E14D74C2B0310CDCAC45B8BA4B.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset'
+[2020.01.10-13.17.49:331][230]BlueprintLog: New page: Compile BP_GameCamera
+[2020.01.10-13.17.49:688][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.01.10-13.17.52:854][364]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-13.17.52:897][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.17.52:897][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-13.17.52:897][364]PIE: New page: PIE session: TestMap (10 Jan 2020 13:17:52)
+[2020.01.10-13.17.52:897][364]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-13.17.52:915][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017392s)
+[2020.01.10-13.17.52:916][364]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-13.17.52:916][364]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.01.10-13.17.52:916][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.018510s)
+[2020.01.10-13.17.52:967][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.01.10-13.17.52:984][364]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-13.17.52:995][364]LogInit: FAudioDevice initialized.
+[2020.01.10-13.17.53:028][364]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-13.17.53:031][364]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-13.17.53
+[2020.01.10-13.17.53:032][364]LogWorld: Bringing up level for play took: 0.003242
+[2020.01.10-13.17.53:069][364]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.706
+[2020.01.10-13.17.53:069][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.18.33:614][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.18.33:617][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.18.33:695][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-13.18.33:696][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.18.33:769][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.18.33:777][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.10-13.18.33:831][684]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.01.10-13.18.38:191][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.19.34:603][753]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.01.10-13.19.50:541][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameCamera" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset" SILENT=true
+[2020.01.10-13.19.50:613][495]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GameCameraA59F8C0C45B01FD449402A9797ECF53D.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset'
+[2020.01.10-13.19.50:916][508]BlueprintLog: New page: Compile BP_GameCamera
+[2020.01.10-13.19.51:205][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.01.10-13.20.46:658][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameCamera" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset" SILENT=true
+[2020.01.10-13.20.46:704][405]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GameCamera73A86CEA4292139FA32E5299288F3CAA.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset'
+[2020.01.10-13.20.46:938][417]BlueprintLog: New page: Compile BP_GameCamera
+[2020.01.10-13.20.47:255][417]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.01.10-13.21.14:538][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameCamera" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset" SILENT=true
+[2020.01.10-13.21.14:582][942]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GameCamera0AB9DEEA40054DB61673C791FA16AB56.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GameCamera.uasset'
+[2020.01.10-13.21.14:982][963]BlueprintLog: New page: Compile BP_GameCamera
+[2020.01.10-13.21.15:263][963]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.01.10-13.22.10:355][822]BlueprintLog: New page: Compile BP_GhostPlayer
+[2020.01.10-13.22.10:675][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.01.10-13.22.19:351][254]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-13.22.19:397][254]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.19:397][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-13.22.19:397][254]PIE: New page: PIE session: TestMap (10 Jan 2020 13:22:19)
+[2020.01.10-13.22.19:397][254]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-13.22.19:414][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017636s)
+[2020.01.10-13.22.19:415][254]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-13.22.19:415][254]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2020.01.10-13.22.19:416][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.018752s)
+[2020.01.10-13.22.19:470][254]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.01.10-13.22.19:485][254]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-13.22.19:496][254]LogInit: FAudioDevice initialized.
+[2020.01.10-13.22.19:524][254]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-13.22.19:567][254]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-13.22.19
+[2020.01.10-13.22.19:567][254]LogWorld: Bringing up level for play took: 0.002461
+[2020.01.10-13.22.19:583][254]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap -0.78
+[2020.01.10-13.22.19:583][254]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.30:881][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.30:881][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.22.30:923][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-13.22.30:924][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.30:980][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.22.30:986][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.01.10-13.22.31:011][901]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.01.10-13.22.32:060][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.22.32:154][962]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-13.22.32:192][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.32:192][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-13.22.32:192][962]PIE: New page: PIE session: TestMap (10 Jan 2020 13:22:32)
+[2020.01.10-13.22.32:192][962]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.01.10-13.22.32:210][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017494s)
+[2020.01.10-13.22.32:210][962]LogAIModule: Creating AISystem for world TestMap
+[2020.01.10-13.22.32:210][962]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2020.01.10-13.22.32:210][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.018228s)
+[2020.01.10-13.22.32:259][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.01.10-13.22.32:273][962]LogInit: XAudio2 using '32W_LCD_TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-13.22.32:284][962]LogInit: FAudioDevice initialized.
+[2020.01.10-13.22.32:316][962]LogLoad: Game class is 'BP_GhostGM_C'
+[2020.01.10-13.22.32:318][962]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.01.10-13.22.32
+[2020.01.10-13.22.32:319][962]LogWorld: Bringing up level for play took: 0.002411
+[2020.01.10-13.22.32:358][962]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap -0.005
+[2020.01.10-13.22.32:358][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.34:224][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.34:225][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.22.34:263][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-13.22.34:264][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.01.10-13.22.34:316][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-13.22.34:323][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.01.10-13.22.34:348][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.10-13.22.34:832][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-13.22.38:241][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GhostPlayer" FILE="../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GhostPlayer.uasset" SILENT=true
+[2020.01.10-13.22.38:340][231]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Saved/BP_GhostPlayer3E67A1A04C8A4D0EC1F65DAEB215CB18.tmp' to '../../../../../../Users/Admin/Desktop/JuniorSeniorGroup10/Ghosts/Ghosts/Content/Blueprint/BP_GhostPlayer.uasset'
+[2020.01.10-13.22.38:648][242]BlueprintLog: New page: Compile BP_GhostPlayer
+[2020.01.10-13.22.38:955][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.01.10-13.23.06:318][601]LogUObjectArray: Warning: Other object in slot
+[2020.01.10-13.23.06:357][601]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.10-13.23.16:050][601]LogStats: FPlatformStackWalk::StackWalkAndDump -  9.693 s
+[2020.01.10-13.23.16:050][601]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.10-13.23.16:050][601]LogOutputDevice: Error: 
+[2020.01.10-13.23.16:050][601]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.01.10-13.23.16:050][601]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: Stack: 
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1d83c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1d0b6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1d0c4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff198437f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff0c5a5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff0c561e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1e315984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1e5015e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1e35d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1e33af5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff1e330b09 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff4b01b489 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff4b00ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff4b01d134 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff4b00c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff779763ed USER32.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff77975de2 USER32.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007fff4b01e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007ff723625d3e UE4Editor.exe!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007ff72363554c UE4Editor.exe!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007ff7236355ca UE4Editor.exe!UnknownFunction []
+[2020.01.10-13.23.16:051][601]LogOutputDevice: Error: [Callstack] 0x00007ff72364316c UE4Editor.exe!UnknownFunction []
+[2020.01.10-13.23.16:052][601]LogOutputDevice: Error: [Callstack] 0x00007ff723645b8e UE4Editor.exe!UnknownFunction []
+[2020.01.10-13.23.16:052][601]LogOutputDevice: Error: [Callstack] 0x00007fff77eb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.10-13.23.16:052][601]LogOutputDevice: Error: [Callstack] 0x00007fff7902ced1 ntdll.dll!UnknownFunction []
+[2020.01.10-13.23.16:052][601]LogOutputDevice: Error: 
+[2020.01.10-13.23.16:153][601]LogStats:                SubmitErrorReport -  0.020 s
